@@ -1,5 +1,14 @@
+# React + Vite + Tailwind CSS Project Setup
 
-## Install React
+This guide provides step-by-step instructions to set up a React project with Vite and Tailwind CSS.
+
+---
+
+## 1. Install React with Vite
+
+Run the following commands to create a new React project using Vite:
+
+```bash
 npm init vite@latest
 npm install
 
