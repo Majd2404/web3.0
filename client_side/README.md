@@ -18,6 +18,8 @@ npm run dev
 ## Install Tailwind CSS
 npm install tailwindcss @tailwindcss/vite
 
+```
+
 ## Configure the Vite plugin
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
@@ -29,3 +31,9 @@ export default defineConfig({
 
 ## Import Tailwind CSS
 @import "tailwindcss";
+
+```bash
+
+npm install react-icons
+
+```
